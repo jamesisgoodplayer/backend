@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+    "id": 5928102,
+    "category": "community service",
+    "title": "Beach Cleanup Day",
+    "description": "Join us to clean up the beach and make a difference in our environment.",
+    "location": "Sunny Beach",
+    "date": "March 15, 2023",
+    "time": "10:00",
+    "petsAllowed": false,
+    "organizer": "Ocean Watchers"
     }
   ]
 }
