@@ -43,6 +43,17 @@
     "time": "10:00",
     "petsAllowed": false,
     "organizer": "Ocean Watchers"
+    },
+    { 
+    "id": 5928106,
+    "category": "community service", 
+    "title": "Habitat Restoration Day", 
+    "description": "Participate in habitat restoration efforts in our local wetlands.", 
+    "location": "Wetland Reserve",
+    "date": "July 20, 2023", 
+    "time": "07:30",
+    "petsAllowed": false, 
+    "organizer": "Wildlife Conservation Society"
     }
   ]
 }
